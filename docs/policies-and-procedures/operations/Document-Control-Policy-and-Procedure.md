@@ -48,7 +48,7 @@ All staff are responsible for creating and using documents in line with the term
 
 All documents have a lifecycle from creation through to disposition: 
 
-![document lifecycle](images\document-lifecycle.png)
+![document lifecycle](images/document-lifecycle.png)
 
 ### Creation 
 

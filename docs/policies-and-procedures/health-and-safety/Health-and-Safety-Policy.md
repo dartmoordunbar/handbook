@@ -198,7 +198,7 @@ If you discover a fire:
 
 ### Where should people assemble: 
 
-<img src="images\phase-5-assembly-point.png" style="zoom:33%;" />
+<img src="images/phase-5-assembly-point.png" style="zoom:33%;" />
 
 
 

@@ -37,7 +37,7 @@ In plain terms, an information security event is anything that could result in l
 
 Note: For the avoidance of doubt, relevant events do not include routine IT. During the initial triage any security-related events will be identified and escalated appropriately. 
 
-<img src="images\report-incidents.png" style="zoom:40%;" />
+<img src="images/report-incidents.png" style="zoom:40%;" />
 
 ## Reference documents 
 
@@ -46,7 +46,7 @@ Note: For the avoidance of doubt, relevant events do not include routine IT. Dur
 
 ## Process flow
 
-![process flow](images\incident-reporting-process-flow.jpg)
+![process flow](images/incident-reporting-process-flow.jpg)
 
 ## Reporting 
 
