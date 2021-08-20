@@ -375,7 +375,7 @@ In cases where responsibility for technical delivery is shared between Rowe IT a
 >
 > The full checklist is updated frequently and is available @ 
 >
-> [https://roweit.sharepoint.com/:w:/r/Rowe%20IT%20Team/Shared%20Documents/Software%20Engi ](https://roweit.sharepoint.com/:w:/r/Rowe IT Team/Shared%20Documents/Software Engineering/CodeReview.docx?d=w1e9bb9f0d76749d8a50f6583e2d2942f&csf=1&web=1&e=Jo05JH)
+> [https://roweit.sharepoint.com/:w:/r/Rowe%20IT%20Team/Shared%20Documents/Software%20Engineering/CodeReview.docx?d=w1e9bb9f0d76749d8a50f6583e2d2942f&csf=1&web=1&e=Jo05JH](https://roweit.sharepoint.com/:w:/r/Rowe%20IT%20Team/Shared%20Documents/Software%20Engineering/CodeReview.docx?d=w1e9bb9f0d76749d8a50f6583e2d2942f&csf=1&web=1&e=Jo05JH)
 
 ### Deployment Checklist 
 
