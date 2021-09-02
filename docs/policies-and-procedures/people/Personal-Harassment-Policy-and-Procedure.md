@@ -1,20 +1,5 @@
 # Personal Harassment Policy and Procedure 
 
-**Version 1.1**
-
-## Version Control Information
-
-| Issue | Description of change | Author | Date       |
-| ----- | --------------------- | ------ | ---------- |
-| 1     | Initial Issue         | HR     | 21/04/2020 |
-| 1.1   | Review. No changes    | HR     | 31/3/2021  |
-
-## Approvals
-
-| Author:      | Hannah Rowe      |
-| ------------ | ---------------- |
-| Approved By: | Director Rowe IT |
-
 ## Introduction 
 
 Harassment or victimisation on the grounds of the following protected characteristic: age, disability, gender reassignment, marriage and civil partnership, pregnancy or maternity, race, religion or belief, sex or sexual orientation is unacceptable. 
