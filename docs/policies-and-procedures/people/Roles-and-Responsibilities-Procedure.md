@@ -1,20 +1,5 @@
 # Roles and Responsibilities Procedure 
 
-**Version 1**
-
-## Version Control Information
-
-| Issue | Description of change/Review | Date      |
-| ----- | ---------------------------- | --------- |
-| 1     | Initial Issue                | 14/1/2021 |
-
-## Approvals
-
-| Author:      | Hannah Rowe      |
-| ------------ | ---------------- |
-| Approved By: | Quality Manager  |
-| Approved By: | Director Rowe IT |
-
 ## Purpose
 
 The objective is that all quality and information security responsibilities shall be defined and allocated. 
