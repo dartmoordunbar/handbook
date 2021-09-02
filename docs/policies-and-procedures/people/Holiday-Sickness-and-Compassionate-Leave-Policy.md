@@ -1,21 +1,5 @@
 # Holiday, Sickness and Compassionate Leave Policy 
 
-**Version 1.1**
-
-## Version Control Inforamtion
-
-| Issue | Description of change | Author | Date      |
-| ----- | --------------------- | ------ | --------- |
-| 1     | Initial Issue         | HR     | 24/2/2020 |
-| 1.1   | Review. No changes    | HR     | 31/1/2021 |
-
-## Approvals
-
-| Author:      | Hannah Rowe      |
-| ------------ | ---------------- |
-| Approved By: | Quality Manager  |
-| Approved By: | Director Rowe IT |
-
 ## Purpose 
 
 The purpose of this policy is to give guidance on taking leave or when sick. 
