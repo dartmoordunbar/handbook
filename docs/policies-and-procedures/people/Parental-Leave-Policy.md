@@ -1,22 +1,5 @@
 # Parental Leave Policy 
 
-**Version 1.2**
-
-## Version Control Information 
-
-| Issue | Description of change                                        | Date       |
-| ----- | ------------------------------------------------------------ | ---------- |
-| 1     | Initial Issue                                                | 21/12/2018 |
-| 1.0   | Review. No changes                                           | 15/7/2019  |
-| 1.1   | Review. No changes                                           | 2/7/2020   |
-| 1.2   | Updated rates after April review Maternity  and Paternity pay full salary for 2 weeks | 26/4/2021  |
-
-## Approvals
-
-| Author:      | Hannah Rowe      |
-| ------------ | ---------------- |
-| Approved By: | Director Rowe IT |
-
 ## Scope 
 
 This policy and related procedure apply to all employees who meet the eligibility criteria 
