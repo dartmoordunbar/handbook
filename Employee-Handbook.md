@@ -1,7 +1,5 @@
 # Rowe IT Company Handbook
 
-**Version 1.4**
-
 **16th September 2020**
 
 ![rowe it wall](images/rowe-it-wall.png)
@@ -10,15 +8,6 @@
 
 [TOC]
 
-## Version Control Information
-
-| Issue | Description of change         | Date       |
-| ----- | ----------------------------- | ---------- |
-| 1     | Initial Issue                 | April 2020 |
-| 1.1   | Clarification to home working | Sep 2020   |
-| 1.2   | Remote working requests       | Fed 2021   |
-| 1.3   | Time off for public duties    | Mar 2021   |
-| 1.4   | Right to disconnect           | May 2021   |
 
 ## Introduction 
 
