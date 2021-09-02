@@ -1,22 +1,5 @@
 # Portable and Removable Media Devices Policy
 
-**Version 2.2**
-
-## Version Control Infromation
-
-| **Issue** | **Description of change**       | **Author** | **Date**   |
-| --------- | ------------------------------- | ---------- | ---------- |
-| 1         | Initial Issue                   | HR         | 16/01/2019 |
-| 2         | Update – Bitlocker requirements | HR         | 08/07/2019 |
-| 2.1       | Reviewed. No changes made       | HR         | 02/07/2020 |
-| 2.2       |                                 | HR         | 9/7/2021   |
-
-## Approvals
-
-| Approved By: | Director Rowe IT |
-| ------------ | ---------------- |
-|              |                  |
-
 ## Introduction
 
 The General Data Protection Regulations (GDPR) now gives individuals more control over how data is collected, used, protected and controlled as well as the right to being forgotten. Non-compliance with the GDPR could result in fines, loss in reputation and cause distress to those whose information has been compromised. 
