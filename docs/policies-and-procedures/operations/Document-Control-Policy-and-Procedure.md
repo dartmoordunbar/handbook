@@ -1,20 +1,5 @@
 # Document Control Policy and Procedure
 
-**Version 1**
-
-## Version Control Information
-
-| Issue | Description of change | Date      |
-| ----- | --------------------- | --------- |
-| 1     | Initial Issue         | 8/12/2020 |
-
-## Approvals
-
-| Author:      | Hannah Rowe      |
-| ------------ | ---------------- |
-| Approved By: | Quality Manager  |
-| Approved By: | Director Rowe IT |
-
 ## Introduction
 
 This policy establishes the standards for document management in Rowe IT and for ensuring that documents are created, maintained and disposed of appropriately. 
