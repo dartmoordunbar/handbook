@@ -1,21 +1,5 @@
 # Health and Safety Policy
 
-**Version 2.1**
-
-## Version Control Information
-
-| **Issue** | **Description of change**       | **Author** | **Date**   |
-| --------- | ------------------------------- | ---------- | ---------- |
-| 1         | Initial Issue                   | HR         | 16/12/2019 |
-| 2         | Major update after consultation | HR         | 14/4/2020  |
-| 2.1       | Review. No changes              | HR         | 31/3/2021  |
-
-## Approvals
-
-| Author:      | Hannah Rowe      |
-| ------------ | ---------------- |
-| Approved By: | Director Rowe IT |
-
 ## General Policy Statement 
 
 It is the general policy of the organisation to ensure, so far as is reasonably practicable, the health, safety and welfare of our employees and of those other people who could be affected by the operation of our business. 
