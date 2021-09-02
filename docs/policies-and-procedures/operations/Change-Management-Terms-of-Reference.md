@@ -1,20 +1,5 @@
 # Change Management Terms of Reference (TORs)
 
-**Version 1**
-
-## Version Control Information
-
-| **Issue** | **Description of change** | **Date**  | **Author** |
-| --------- | ------------------------- | --------- | ---------- |
-| 0.1       | Draft                     | 1/2/2021  | HR         |
-| 1.0       | Approved. Initial issue   | 28/3/2021 | HR         |
-
-## Approvals
-
-| Author:      | Hannah Rowe         |
-| ------------ | ------------------- |
-| Approved by: | Paul Rowe, Director |
-
 ## Scope
 
 The purpose of this document is to define the methods for managing changes to processes and other aspects of the Integrated Management System (IMS) in a controlled manager so as to maintain the integrity of the IMS, assign responsibility and assess the potential impacts of change.
