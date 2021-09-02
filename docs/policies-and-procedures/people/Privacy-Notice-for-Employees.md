@@ -1,20 +1,5 @@
 # Privacy Notice for Employees
 
-**Version 1.1**
-
-## Version Control Information
-
-| Issue | Description of  change | Author | Date      |
-| ----- | ---------------------- | ------ | --------- |
-| 1     | Initial Issue          | HR     | 20/4/2020 |
-| 1.1   | Review. No changes     | HR     | 31/3/2021 |
-
-## Approvals
-
-| Approved By: | Director Rowe IT |
-| ------------ | ---------------- |
-|              |                  |
-
 ## Introduction 
 
 In accordance with the General Data Protection Regulation (GDPR), we have implemented this privacy notice to inform you, our employees, of the types of data we process about you. We also include within this notice the reasons for processing your data, the lawful basis that permits us to process it, how long we keep your data for and your rights regarding your data.
