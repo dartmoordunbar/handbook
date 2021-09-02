@@ -1,24 +1,5 @@
 # Retention of Records Policy
 
-**Version 1.4**
-
-## Version Control Information
-
-| **Issue** | **Description of change**             | **Author** | **Date**   |
-| --------- | ------------------------------------- | ---------- | ---------- |
-| 1         | Initial Issue                         | HR         | 25/02/2018 |
-| 1.0       | Review. No changes                    | HR         | 1/2/2019   |
-| 1.1       | Review                                | HR         | 09/01/2020 |
-| 1.2       | Review. No changes                    | HR         | 23/2/2020  |
-| 1.3       | Review. No changes                    | HR         | 5/2/2021   |
-| 1.4       | HubPlanner, Bright and Breathe update | HR         | 16/8/2021  |
-
-## Approvals
-
-| Approved By: | Director Rowe IT |
-| ------------ | ---------------- |
-|              |                  |
-
 ## Purpose
 
 The purpose of this policy is to detail the procedures for retention of data in Rowe IT. Unless otherwise specified the retention refers to both hard and soft copy documents. 
