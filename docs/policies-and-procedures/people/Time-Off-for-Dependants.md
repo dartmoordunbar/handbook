@@ -1,21 +1,5 @@
 # Time off for Dependants 
 
-**Version 1.1**
-
-## Version Control Information
-
-| Issue | Description of change | Author | Date      |
-| ----- | --------------------- | ------ | --------- |
-| 1     | Initial Issue         | HR     | 18/3/2020 |
-| 1.1   | Review. No changes    | HR     | 31/3/2021 |
-
-## Approvals
-
-| Author:      | Hannah Rowe      |
-| ------------ | ---------------- |
-| Approved By: | Quality Manager  |
-| Approved By: | Director Rowe IT |
-
 ## Purpose 
 
 This document outlines Rowe IT’s policy on taking time off for dependants 
