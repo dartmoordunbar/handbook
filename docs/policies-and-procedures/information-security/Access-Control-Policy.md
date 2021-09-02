@@ -1,20 +1,5 @@
 # Access Control Policy
 
-**Version 1**
-
-## Version Control Information
-
-| **Issue** | **Description of change** | **Author** | **Date**  |
-| --------- | ------------------------- | ---------- | --------- |
-| 0.1       | Draft                     | HR         | 23/2/2021 |
-| 1         | Approved. Initial issue   | HR         | 8/3/2021  |
-
-## Approvals
-
-| Approved by: | Paul Rowe, Director |
-| ------------ | ------------------- |
-|              |                     |
-
 ## Introduction
 
 Rowe IT controls access to information based on business and security requirements. 
