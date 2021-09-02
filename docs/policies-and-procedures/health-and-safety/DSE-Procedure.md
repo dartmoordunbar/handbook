@@ -1,20 +1,5 @@
 # Display Screen Equipment Procedure
 
-**Version 1.1**
-
-## Version Control Information
-
-| **Issue** | **Description of change** | **Author** | **Date**  |
-| --------- | ------------------------- | ---------- | --------- |
-| 1         | Initial Issue             | HR         | 15/4/2020 |
-| 1.1       | Review. No changes        | HR         | 31/3/2021 |
-
-## Approvals
-
-| Author:      | Hannah Rowe      |
-| ------------ | ---------------- |
-| Approved By: | Director Rowe IT |
-
 ## Introduction
 
 The Health and Safety (Display Screen Equipment) Regulations 1992 seek to protect the health of workers by reducing risks from work with display screen equipment (DSE) 
