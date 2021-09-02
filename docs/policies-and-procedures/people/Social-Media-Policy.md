@@ -1,23 +1,5 @@
 # Social Media Policy
 
-**Version 1.3**
-
-## Version Control Information
-
-| Issue | Description of change                  | Author | Date       |
-| ----- | -------------------------------------- | ------ | ---------- |
-| 1     | Initial Issue                          | HR     | 09/11/2017 |
-| 1.0   | Review. No changes made                | HR     | 24/09/2018 |
-| 1.1   | Review. No changes made                | HR     | 15/7/2019  |
-| 1.2   | Update on business use of social media | HR     | 21/4/2020  |
-| 1.3   | Review. No changes                     | HR     | 31/3/2021  |
-
-## Approvals
-
-| Author:      | Hannah Rowe      |
-| ------------ | ---------------- |
-| Approved By: | Director Rowe IT |
-
 ## Purpose 
 
 Rowe IT recognizes blogs, networking sites, and other social media (collectively referred to as “social media”, defined below) as possible tools to support the Company’s operational goals.  
