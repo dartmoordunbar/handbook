@@ -1,20 +1,5 @@
 # Whistle-blowers 
 
-**Version 1.1**
-
-## Version Control Information
-
-| Issue | Description of change | Author | Date      |
-| ----- | --------------------- | ------ | --------- |
-| 1     | Initial Issue         | HR     | 22/4/2020 |
-| 1.1   | Review. No changes    | HR     | 31/3/2021 |
-
-## Approvals
-
-| Author:      | Hannah Rowe      |
-| ------------ | ---------------- |
-| Approved By: | Director Rowe IT |
-
 ## Introduction 
 
 Under certain circumstances, employees are protected from suffering any detriment or termination of employment if they make disclosures about organisations for whom they work. 
