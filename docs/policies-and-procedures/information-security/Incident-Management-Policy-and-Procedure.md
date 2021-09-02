@@ -1,20 +1,5 @@
 # Incident Management Policy and Procedure 
 
-**Version 1**
-
-## Version Control Information
-
-| **Issue** | **Description of  change/Review** | **Author** | **Date**   |
-| --------- | --------------------------------- | ---------- | ---------- |
-| 0.1       | Draft                             | HR         | 02/02/2021 |
-| 1         | Initial                           | HR         | 23/2/2021  |
-
-## Approvals
-
-| Approved By: | Director Rowe IT |
-| ------------ | ---------------- |
-|              |                  |
-
 ## Overview
 
 This procedure is established to clearly define the process of managing information security incidents within Rowe IT to ensure effective reporting, response and resolution. 
