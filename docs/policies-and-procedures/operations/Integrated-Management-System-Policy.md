@@ -1,20 +1,5 @@
 # Integrated Management System Policy
 
-**Version 1**
-
-## Version Control Information
-
-| Issue | Description  of change/Review         | Author | Date       |
-| ----- | ------------------------------------- | ------ | ---------- |
-| 0.1   | Draft                                 | HR     | 02/02/2021 |
-| 1     | Approved at Management Review. Issued | HR     | 23/2/2021  |
-
-## Approvals
-
-| Approved By: | Director Rowe IT |
-| ------------ | ---------------- |
-|              |                  |
-
 ## Policy
 
 Rowe IT is an established technology service provider operating out of the South West, UK applying knowhow and expertise to help our clients with their digital journey. Through agile software engineering practices, exploiting the power of the cloud and unlocking value in data, we deliver innovative cutting-edge services and solutions. 
