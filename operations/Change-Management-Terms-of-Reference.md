@@ -14,5 +14,5 @@ The following diagram shows the different types of change with in the organisati
 
 Certain activities are not considered as “change” within the organisation. These are often business as usual activities within the project, and are managed within the project PID.
 
-![non-change activities](C:\Users\Deanna\Documents\Rowe IT Handbook\docs\policies-and-procedures\operations\public\images/non-change-activities.png)
+![non-change activities](images/non-change-activities.png)
 
