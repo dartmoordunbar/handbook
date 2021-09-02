@@ -1,20 +1,5 @@
 # Employee Referral Scheme
 
-**Version 1**
-
-## Version Control Information
-
-| Issue | Description of change/Review | Date      |
-| ----- | ---------------------------- | --------- |
-| 1     | Initial Issue                | 22/1/2021 |
-
-## Approvals
-
-| Author:      | Hannah Rowe      |
-| ------------ | ---------------- |
-| Approved By: | Quality Manager  |
-| Approved By: | Director Rowe IT |
-
 ## Introduction 
 
 This policy has been introduced in order to say thank you for our current employees who use their personal and professional networks to recommend Rowe IT as a great place to work.
