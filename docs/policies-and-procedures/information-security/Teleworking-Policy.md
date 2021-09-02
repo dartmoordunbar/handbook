@@ -1,23 +1,5 @@
 # Teleworking Policy
 
-**Version 2.1**
-
-## Version Control Information
-
-| **Issue** | **Description of change**                                    | **Date**   |
-| --------- | ------------------------------------------------------------ | ---------- |
-| 1         | Initial Issue                                                | 22/1/2019  |
-| 1.1       | Review                                                       | 06/01/2020 |
-| 2         | Major changes to include more comprehensive health and safety consideration and Teleworking Checklist | 3/4/2020   |
-| 2.1       | Updated to include use of public Wifi                        | 23/2/2021  |
-
-## Approvals
-
-| Author:      | Hannah Rowe      |
-| ------------ | ---------------- |
-| Approved By: | Quality Manager  |
-| Approved By: | Director Rowe IT |
-
 ## Introduction
 
 This document sets out high level principles and expectations that apply to teleworking or home working.  
