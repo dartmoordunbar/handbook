@@ -1,25 +1,5 @@
 # Discipline Procedure
 
-**Version 2.1**
-
-## Version Control Information
-
-| Issue | Description of change                           | Author | Date       |
-| ----- | ----------------------------------------------- | ------ | ---------- |
-| 1     | Initial Issue                                   | HR     | 16/10/2016 |
-| 1.0   | Review. No changes made                         | HR     | 11/09/2017 |
-| 1.1   | Review. No changes made                         | HR     | 24/09/2018 |
-| 1.2   | Review. No changes made                         | HR     | 08/07/2019 |
-| 1.3   | Added  breach of AUP                            | HR     | 24/1/2020  |
-| 2     | Major review following advice from Peninsula HR | HR     | 24/4/2020  |
-| 2.1   | Review. No changes                              | HR     | 31/3/2021  |
-
-## Approvals
-
-| Approved By: | Director Rowe IT |
-| ------------ | ---------------- |
-|              |                  |
-
 ## Introduction 
 
 It is necessary to have a minimum number of rules in the interests of the whole organisation. 
