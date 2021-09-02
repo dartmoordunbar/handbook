@@ -1,20 +1,5 @@
 # Anti-Bribery Policy
 
-**Version 1.1**
-
-## Version Control Information
-
-| Issue | Description of change | Author | Date      |
-| ----- | --------------------- | ------ | --------- |
-| 1     | Initial Issue         | HR     | 22/4/2020 |
-| 1.1   | Review. No changes    | HR     | 31/3/2021 |
-
-## Approvals
-
-| Author:      | Hannah Rowe      |
-| ------------ | ---------------- |
-| Approved By: | Director Rowe IT |
-
 ## Introduction
 
 Bribery is a criminal offence. The Company prohibits any form of bribery. We require compliance, from everyone connected with our business, with the highest ethical standards and anti-bribery laws applicable. Integrity and transparency are of utmost importance to us and we have a zero tolerance attitude towards corrupt activities of any kind, whether committed by employees or by third parties acting for or on behalf of the Company. 
