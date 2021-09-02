@@ -1,20 +1,5 @@
 # New and Expectant Mothers
 
-**Version 1**
-
-## Version Control
-
-| **Issue** | **Description of change** | **Date**  |
-| --------- | ------------------------- | --------- |
-| 1         | Initial Issue             | 14/4/2020 |
-
-## Approvals
-
-| Author:      | Hannah Rowe      |
-| ------------ | ---------------- |
-| Approved By: | Quality Manager  |
-| Approved By: | Director Rowe IT |
-
 ## Introduction
 
 The **Management of Health and Safety at Work Regulations** **1999** include regulations that protect the health and safety of new and expectant mothers who work. 
