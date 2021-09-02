@@ -1,20 +1,5 @@
 # Breathe HR
 
-**Version 1**
-
-## Version Control Information
-
-| Issue | Description  of change | Date     |
-| ----- | ---------------------- | -------- |
-| 1     | Initial Issue          | 8/3/2020 |
-
-## Approvals
-
-| Author:      | Hannah Rowe      |
-| ------------ | ---------------- |
-| Approved By: | Quality Manager  |
-| Approved By: | Director Rowe IT |
-
 ## Purpose
 
 The purpose of this policy is to give guidance on our hr software - Breathe 
