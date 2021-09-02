@@ -1,20 +1,5 @@
 # Acceptable Use Policy
 
-**Version 1**
-
-## Version Control Information 
-
-| **Issue** | **Description of change** | **Date**  |
-| --------- | ------------------------- | --------- |
-| 0.1       | Draft                     | 23/2/2021 |
-| 1         | Approved. Initial issue   | 8/3/2021  |
-
-## Approvals
-
-| Author:      | Hannah Rowe         |
-| ------------ | ------------------- |
-| Approved by: | Paul Rowe, Director |
-
 **Signed and Agreed to:**
 
 ## Introduction
