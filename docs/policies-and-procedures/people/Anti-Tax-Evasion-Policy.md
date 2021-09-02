@@ -1,20 +1,5 @@
 # Anti-Tax Evasion Policy
 
-**Version 1.1**
-
-## Version Control Information
-
-| Issue | Description of change | Author | Date      |
-| ----- | --------------------- | ------ | --------- |
-| 1     | Initial Issue         | HR     | 22/4/2020 |
-| 1.1   | Review. No changes    | HR     | 31/3/2021 |
-
-## Approvals
-
-| Author:      | Hannah Rowe      |
-| ------------ | ---------------- |
-| Approved By: | Director Rowe IT |
-
 ## Introduction
 
 Tax evasion is a criminal offence. The Company prohibits any form of tax evasion. Involvement in the criminal facilitation of tax evasion exposes the Company and the person facilitating the evasion to a criminal offence. It will also damage our reputation and the confidence of our clients, suppliers and business partners. 
