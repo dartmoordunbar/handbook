@@ -4,7 +4,7 @@
 - [Incident Management Policy and Procedure](Incident-Management-Policy-and-Procedure.md)
 - [Information Security Communications Plan](Information-Security-Communications-Plan.md)
 - [Password Policy](Password-Policy.md)
-- [Portable and Removable Media Device](Portable-and-Removable-Medie-Devices.md)
+- [Portable and Removable Media Device](Portable-and-Removable-Media-Devices.md)
 - [Privacy Notice for Employees](Privacy-Notice-for-Employees.md)
 - [Retention of Records Policy](Retention-of-Records-Policy.md)
 - [Social Media Policy](Social-Media-Policy.md)
