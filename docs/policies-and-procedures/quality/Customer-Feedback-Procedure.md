@@ -1,21 +1,5 @@
 # Customer Feedback Procedure
 
-**Version 1.1**
-
-## Version Control Information
-
-| **Issue** | **Description of change/Review** | **Date**  |
-| --------- | -------------------------------- | --------- |
-| 1         | Initial Issue                    | 14/1/2021 |
-| 1.1       | Minor diagram changes            | 18/2/2021 |
-
-## Approvals
-
-| Author:      | Andrew Scully    |
-| ------------ | ---------------- |
-| Approved By: | Quality Manager  |
-| Approved By: | Director Rowe IT |
-
 ## Introduction 
 
 The Rowe IT Customer Feedback Procedure forms a core component of our overall Integrated Management System (IMS), which itself is ISO 9001 compliant. 
