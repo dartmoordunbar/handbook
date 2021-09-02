@@ -1,21 +1,5 @@
 # Equality, Inclusion and Diversity Policy 
 
-**Version 1.1**
-
-## Version Control Information
-
-| Issue | Description of change | Date       |
-| ----- | --------------------- | ---------- |
-| 1     | Initial Issue         | 21/04/2020 |
-| 1.1   | Review. No changes    | 31/3/2021  |
-
-## Approvals
-
-| Author:      | Hannah Rowe      |
-| ------------ | ---------------- |
-| Approved By: | Quality Manager  |
-| Approved By: | Director Rowe IT |
-
 ## Introduction
 
 The terms equality, inclusion and diversity are at the heart of this policy. 
