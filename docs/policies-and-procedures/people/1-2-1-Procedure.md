@@ -1,21 +1,5 @@
 # 1-2-1 Procedure
 
-**Version 1.1**
-
-## Version Control Information
-
-| Issue | Description  of change | Date      | Author |
-| ----- | ---------------------- | --------- | ------ |
-| 1.0   | Initial Issue          | 8/3/2020  | HR     |
-| 1.1   | Review. No update      | 31/3/2021 | HR     |
-
-## Approvals
-
-| Author:      | Hannah Rowe      |
-| ------------ | ---------------- |
-| Approved By: | Quality Manager  |
-| Approved By: | Director Rowe IT |
-
 ## Purpose
 
 The purpose of this policy is to give guidance on 1-2-1 discussion and applies to everyone in Rowe IT. 
