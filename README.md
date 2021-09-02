@@ -1,2 +1,6 @@
 # Rowe IT Handbook
-- [Policies and Procedures](docs/policies-and-procedures/README.md)
+- [Health and Safety](health-and-safety/README.md)
+- [Information Security](information-security/README.md)
+- [Operations](operations/README.md)
+- [Quality](quality/README.md)
+- [People](people/README.md)
