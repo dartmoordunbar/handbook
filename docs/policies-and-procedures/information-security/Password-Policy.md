@@ -1,22 +1,5 @@
 # Password Policy
 
-**Version 1.3**
-
-## Version Control Information 
-
-| **Issue** | **Description of change** | **Date**   |
-| --------- | ------------------------- | ---------- |
-| 1         | Initial Issue             | 16/01/2019 |
-| 1.1       | Review                    | 06/01/2020 |
-| 1.2       | Update for use of Keeper  | 17/6/2020  |
-| 1.3       | Review. No change         | 29/6/2021  |
-
-## Approvals
-
-| Author:     | Hannah Rowe      |
-| ----------- | ---------------- |
-| ApprovedBy: | Director Rowe IT |
-
 ## Introduction 
 
 Passwords are a vital part of information security. It helps minimise the chance of accounts being compromised and mitigates risks to information and IT systems. All users are responsible for ensuring compliance with this policy. 
