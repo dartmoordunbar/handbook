@@ -1,21 +1,5 @@
 # Design and Development Procedure
 
-**Version 1.2**
-
-## Version Control Information
-
-| Issue | **Description of change/Review**                 | Date       | **Author** |
-| ----- | ------------------------------------------------ | ---------- | ---------- |
-| 1     | Initial issue                                    | 18/02/2021 | HR         |
-| 1.1   | Update to NCSC considerations                    | 3/03/2021  | HR         |
-| 1.2   | Intended audience, PID clarifications, checklist | 29/03/2021 | AS         |
-
-## Approvals
-
-| Author:      | Andrew Scully    |
-| ------------ | ---------------- |
-| Approved By: | Director Rowe IT |
-
 ## Introduction
 
 The Rowe IT Design and Development Process forms a core component of our overall Integrated Management System (IMS). The IMS aims to ensure we meet or exceed customer expectations, while accomplishing this in a secure manner sustainable for the business. 
