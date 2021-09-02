@@ -1,26 +1,5 @@
 # Grievance Procedure 
 
-**Version 2.1**
-
-## Version Control Information
-
-| Issue | Description of change                           | Author | Date       |
-| ----- | ----------------------------------------------- | ------ | ---------- |
-| 1     | Initial Issue                                   | HR     | 16/10/2016 |
-| 1.0   | Review. No changes made                         | HR     | 11/09/2017 |
-| 1.1   | Review. No changes made                         | HR     | 24/09/2018 |
-| 1.2   | Review. No changes made                         | HR     | 08/07/2019 |
-| 1.3   | Added breach of AUP                             | HR     | 24/1/2020  |
-| 2     | Major review following advice from Peninsula HR | HR     | 24/4/2020  |
-| 2.1   | Review. No Changes                              | HR     | 31/3/2021  |
-
-## Approvals
-
-| Author:      | Hannah Rowe      |
-| ------------ | ---------------- |
-| Approved By: | Quality Manager  |
-| Approved By: | Director Rowe IT |
-
 ## Introduction 
 
 It is important that if you feel dissatisfied with any matter relating to your employment you should have an effective means by which such a grievance can be aired and, where appropriate, resolved. 
