@@ -1,23 +1,5 @@
 # Travel Expenses Policy
 
-**Version 1.2**
-
-## Version Control Information
-
-| Issue | Description of change   | Date       |
-| ----- | ----------------------- | ---------- |
-| 1     | Initial Issue           | 18/10/2018 |
-| 1.0   | Review. No changes made | 16/7/2019  |
-| 1.1   | Review. No changes made | 2/7/2020   |
-| 1.2   | Start location updated  | 24/3/2021  |
-
-## Approvals
-
-| Author:      | Hannah Rowe      |
-| ------------ | ---------------- |
-| Approved By: | Quality Manager  |
-| Approved By: | Director Rowe IT |
-
 ## Scope 
 
 This policy applies to all our employees that need to spend money for work-related activities. We will reimburse all reasonable business expenses after they are approved, in part or in full. 
