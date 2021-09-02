@@ -1,20 +1,5 @@
 # Privacy Notice for Employees
 
-**Version 1**
-
-## Version Control Information
-
-| **Issue** | **Description of change** | **Date**  |
-| --------- | ------------------------- | --------- |
-| 1         | Initial Issue             | 20/4/2020 |
-
-## Approvals
-
-| Author:      | Hannah Rowe      |
-| ------------ | ---------------- |
-| Approved By: | Quality Manager  |
-| Approved By: | Director Rowe IT |
-
 **Signed and Agreed to:** 
 
 ## Introduction
