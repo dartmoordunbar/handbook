@@ -1,23 +1,5 @@
 # **Information Security Communications Plan** 
 
-**Version 2.1**
-
-## Version Control Information
-
-| **Issue** | **Description of change**     | **Date**   |
-| --------- | ----------------------------- | ---------- |
-| 1         | Initial Issue                 | 07/03/2017 |
-| 1.0       | Review. No changes made       | 24/09/2018 |
-| 2         | Communications Matrix changed | 08/07/2019 |
-| 2.1       | Reviewed. No changes made     | 2/7/2020   |
-
-## Approvals
-
-| Author:      | Hannah Rowe      |
-| ------------ | ---------------- |
-| Approved By: | Quality Manager  |
-| Approved By: | Director Rowe IT |
-
 ## Introduction
 
 Rowe IT has established this guidance document to set out arrangements for communication in relation to Information Security. This affects all members of the Company and as such this document is part of Rowe IT Limited's ISMS. 
