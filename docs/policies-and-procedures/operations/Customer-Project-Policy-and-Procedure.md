@@ -1,22 +1,5 @@
 # Customer Project Policy and Procedure
 
-**Version 1.2**
-
-## Version Control Information
-
-| **Issue** | **Description of change**                                    | **Date**   |
-| --------- | ------------------------------------------------------------ | ---------- |
-| 1         | Initial Issue                                                | 18/01/2019 |
-| 1.1       | Following review. Update to change procedure name and link to Rowe IT Development Procedure when appropriate. | 09/01/2020 |
-| 1.2       | Review.  No changes                                          | 23/2/2021  |
-
-## Approvals
-
-| Author:      | Gary Ratcliffe             |
-| ------------ | -------------------------- |
-| Approved By: | Quality Management Officer |
-| Approved By: | Director Rowe IT           |
-
 ## Intent
 
 It is recognised that the nature of the company’s business means that the approach to the development of software will, to some extent, be determined by the client for whom the software is being developed. The purpose of this document is the describe the guiding principles that will be applied to software development activities within in the company. 
