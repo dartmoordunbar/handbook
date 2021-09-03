@@ -1,3 +1,5 @@
+{% include header.html %}
+
 # Display Screen Equipment Procedure
 
 ## Introduction
