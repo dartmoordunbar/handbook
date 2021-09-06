@@ -1,3 +1,5 @@
+{% include header.html %}
+
 # Grievance Procedure 
 
 ## Introduction 
