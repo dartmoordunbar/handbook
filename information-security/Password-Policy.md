@@ -1,3 +1,5 @@
+{% include header.html %}
+
 # Password Policy
 
 ## Introduction 
