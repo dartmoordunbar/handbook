@@ -1,6 +1,10 @@
 {% include header.html %}
 
-# Rowe IT Company Handbook
+<div align="center">
+  <br><font size="5" style="color: #9bb6b5">Rowe IT Company Handbook</font><br>
+</div>
+
+
 
 **16th September 2020**
 
