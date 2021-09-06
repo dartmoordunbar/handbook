@@ -1,3 +1,5 @@
+{% include header.html %}
+
 # Roles and Responsibilities Procedure 
 
 ## Purpose
