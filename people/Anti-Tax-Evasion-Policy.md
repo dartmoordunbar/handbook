@@ -1,3 +1,5 @@
+{% include header.html %}
+
 # Anti-Tax Evasion Policy
 
 ## Introduction
