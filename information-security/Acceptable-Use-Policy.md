@@ -1,3 +1,5 @@
+{% include header.html %}
+
 # Acceptable Use Policy
 
 **Signed and Agreed to:**
