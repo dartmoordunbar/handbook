@@ -1,10 +1,15 @@
 {% include header.html %}
 
+<!--
 <div align="center">
   <br><font size="5" style="color: #9bb6b5">Rowe IT Company Handbook</font><br>
 </div>
+-->
 
-
+<link rel="stylesheet" href="/styles.css">
+<div align="center">
+  <br><h1>Rowe IT Company Handbook</h1><br>
+</div>
 
 **16th September 2020**
 
