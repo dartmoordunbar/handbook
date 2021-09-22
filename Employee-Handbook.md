@@ -1,12 +1,27 @@
-# Rowe IT Company Handbook
+{% include header.html %}
+
+<!--
+<div align="center">
+  <br><font size="5" style="color: #9bb6b5">Rowe IT Company Handbook</font><br>
+</div>
+-->
+
+<link rel="stylesheet" href="/styles.css">
+<div align="center">
+  <br><h1>Rowe IT Company Handbook</h1><br>
+</div>
 
 **16th September 2020**
 
 ![rowe it wall](images/rowe-it-wall.png)
 
-## Content
+## Policies and Procedures:
 
-[TOC]
+- [Health and Safety](health-and-safety/README.md)
+- [Information Security](information-security/README.md)
+- [Operations](operations/README.md)
+- [Quality](quality/README.md)
+- [People](people/README.md)
 
 
 ## Introduction 

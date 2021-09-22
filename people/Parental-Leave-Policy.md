@@ -1,3 +1,5 @@
+{% include header.html %}
+
 # Parental Leave Policy 
 
 ## Scope 

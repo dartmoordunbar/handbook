@@ -1,3 +1,5 @@
+{% include header.html %}
+
 # **Information Security Communications Plan** 
 
 ## Introduction

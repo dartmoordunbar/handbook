@@ -1,3 +1,5 @@
+{% include header.html %}
+
 # Integrated Management System Policy
 
 ## Policy

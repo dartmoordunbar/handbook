@@ -1,3 +1,5 @@
+{% include header.html %}
+
 # Health and Safety Policy
 
 ## General Policy Statement 

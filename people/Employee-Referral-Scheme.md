@@ -1,3 +1,5 @@
+{% include header.html %}
+
 # Employee Referral Scheme
 
 ## Introduction 

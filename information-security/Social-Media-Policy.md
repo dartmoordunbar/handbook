@@ -1,3 +1,5 @@
+{% include header.html %}
+
 # Social Media Policy
 
 ## Purpose
