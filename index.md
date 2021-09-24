@@ -15,15 +15,6 @@ layout: post
 
 <img src="/images/rowe-it-wall.png" alt="rowe it wall" width="700" height="450" align="center"/>
 
-## Policies and Procedures:
-
-[Health and Safety](./health-and-safety/README.html)
-[Information Security](./information-security/README.html)
-[Operations](./operations/README.html)
-[Quality](./quality/README.html)
-[People](./people/README.html)
-
-
 ## Introduction 
 
 ![handshake line drawing](images/handshake-line-drawing.png)
