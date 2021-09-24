@@ -222,7 +222,7 @@ We report incidents as soon as possible and ensure we meet the set timescales be
 
 When necessary we will report incidents and accidents using the following methods; 
 
-- Online using the reporting forms available from [www.hse.gov.uk](http://www.hse.gov.uk/)[ ](http://www.hse.gov.uk/)
+- Online using the reporting forms available from [www.hse.gov.uk](http://www.hse.gov.uk/)
 - Fatal or major incidents and injuries will be reported by telephone to the Incident Contact Centre on 0845 300 99 23 (open Monday to Friday 9 am to 5 pm) 
 
 ### Aggression and Violence 
