@@ -1,44 +1,48 @@
+---
+layout: post
+---
 {% include header.html %}
 
+
 <div align="center">
-  <br><font size="5" style="color: #9bb6b5">People</font>
+  <font size="6" style="color: #9bb6b5">People</font>
   <br><br><br>
-  
-  [1-2-1 Procedure](1-2-1-Procedure.md)
+
+  <A HREF="./1-2-1-Procedure.html">1-2-1 Procedure</A>
   <br><br>
-  [Anti-Bribery Policy](Anti-Bribery-Policy.md)
+  <A HREF="./Anti-Bribery-Policy.html">Anti-Bribery Policy</A>
   <br><br>
-  [Anti-Tax Evasion Policy](Anti-Tax-Evasion-Policy.md)
+  <A HREF="./Anti-Tax-Evasion-Policy.html">Anti-Tax Evasion Policy</A>
   <br><br>
-  [Breathe HR](Breathe-HR.md)
+  <A HREF="./Breathe-HR.html">Breathe HR</A>
   <br><br>
-  [Discipline Procedure](Discipline-Procedure.md)
+  <A HREF="./Discipline-Procedure.html">Discipline Procedure</A>
   <br><br>
-  [Employee Referral Scheme](Employee-Referral-Scheme.md)
+  <A HREF="./Employee-Referral-Scheme.html">Employee Referral Scheme</A>
   <br><br>
-  [Equality Inclusion and Diversity Policy](Equality-Inclusion-and-Diversity-Policy.md)
+  <A HREF="./Equality-Inclusion-and-Diversity-Policy.html">Equality Inclusion and Diversity Policy</A>
   <br><br>
-  [Grievance Procedure](Grievance-Procedure.md)
+  <A HREF="./Grievance-Procedure.html">Grievance Procedure</A>
   <br><br>
-  [Holiday, Sickness and Compassionate Leave Policy](Holiday-Sickness-and-Compassionate-Leave-Policy.md)
+  <A HREF="./Holiday-Sickness-and-Compassionate-Leave-Policy.html">Holiday, Sickness and Compassionate Leave Policy</A>
   <br><br>
-  [Modern Slavery Statement](Modern-Slavery-Statement.md)
+  <A HREF="./Modern-Slavery-Statement.html">Modern Slavery Statement</A>
   <br><br>
-  [Parental Leave Policy](Parental-Leave-Policy.md)
+  <A HREF="./Parental-Leave-Policy.html">Parental Leave Policy</A>
   <br><br>
-  [Personal Harassment Policy and Procedure](Personal-Harassment-Policy-and-Procedure.md)
+  <A HREF="./Personal-Harassment-Policy-and-Procedure.html">Personal Harassment Policy and Procedure</A>
   <br><br>
-  [Privacy Notice for Employees](Privacy-Notice-for-Employees.md)
+  <A HREF="./Privacy-Notice-for-Employees.html">Privacy Notice for Employees</A>
   <br><br>
-  [Roles and Responsibilities Procedure](Roles-and-Responsibilities-Procedure.md)
+  <A HREF="./Roles-and-Responsibilities-Procedure.html">Roles and Responsibilities Procedure</A>
   <br><br>
-  [Social Media Policy](Social-Media-Policy.md)
+  <A HREF="./Social-Media-Policy.html">Social Media Policy</A>
   <br><br>
-  [Time Off for Dependants](Time-Off-for-Dependants.md)
+  <A HREF="./Time-Off-for-Dependants.html">Time Off for Dependants</A>
   <br><br>
-  [Travel Expenses Policy](Travel-Expenses-Policy.md)
+  <A HREF="./Travel-Expenses-Policy.html">Travel Expenses Policy</A>
   <br><br>
-  [Whistle-blowers](Whistleblowers.md)
+  <A HREF="./Whistleblowers.html">Whistle-blowers</A>
   <br><br>
 
   <img src="/images/backgroundLogo.jpeg" alt="RoweIT"  style="width:100%"/>

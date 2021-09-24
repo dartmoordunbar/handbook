@@ -1,27 +1,27 @@
+---
+layout: post
+---
 {% include header.html %}
 
-<!--
-<div align="center">
-  <br><font size="5" style="color: #9bb6b5">Rowe IT Company Handbook</font><br>
-</div>
--->
 
-<link rel="stylesheet" href="/styles.css">
+
+<link rel="stylesheet" href="/style.css">
 <div align="center">
   <br><h1>Rowe IT Company Handbook</h1><br>
 </div>
 
 **16th September 2020**
 
-![rowe it wall](images/rowe-it-wall.png)
+
+<img src="/images/rowe-it-wall.png" alt="rowe it wall" width="700" height="450" align="center"/>
 
 ## Policies and Procedures:
 
-- [Health and Safety](health-and-safety/README.md)
-- [Information Security](information-security/README.md)
-- [Operations](operations/README.md)
-- [Quality](quality/README.md)
-- [People](people/README.md)
+[Health and Safety](./health-and-safety/README.html)
+[Information Security](./information-security/README.html)
+[Operations](./operations/README.html)
+[Quality](./quality/README.html)
+[People](./people/README.html)
 
 
 ## Introduction 
@@ -101,7 +101,8 @@ Our values are:
 6. Love what you do. 
 7. Keep learning. Tomorrows skills are not todays. 
 
-![company line drawing](images/company-line-drawing.png)
+
+<img src="./images/company-line-drawing.png" alt="company line drawing" width="700" height="450" align="center"/>
 
 ## Pay 
 

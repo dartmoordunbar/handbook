@@ -25,3 +25,25 @@ body {
 h1 {
   color: #9bb6b5;
 }
+
+a:link, a:visited {
+  background-color: #1c588c;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: #9bb6b5;
+}
+
+section {
+  padding-left: 80px;
+  padding-right: 80px;
+  margin: auto;
+  padding-bottom: 80px;
+  max-width: 1000px;
+  
+}

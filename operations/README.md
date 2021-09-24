@@ -1,22 +1,26 @@
+---
+layout: post
+---
 {% include header.html %}
 
+
 <div align="center">
-  <br><font size="5" style="color: #9bb6b5">Operations</font>
+  <font size="6" style="color: #9bb6b5">Operations</font>
   <br><br><br>
   
-  [Change Management Terms of Reference](Change-Management-Terms-of-Reference.md)
+  <A HREF="./Change-Management-Terms-of-Reference.html">Change Management Terms of Reference</A>
   <br><br>
-  [Customer Feedback Procedure](Customer-Feedback-Procedure.md)
+  <A HREF="./Customer-Feedback-Procedure.html">Customer Feedback Procedure</A>
   <br><br>
-  [Customer Project Policy and Procedure](Customer-Project-Policy-and-Procedure.md)
+  <A HREF="./Customer-Project-Policy-and-Procedure.html">Customer Project Policy and Procedure</A>
   <br><br>
-  [Design and Development Procedure](Design-and-Development-Procedure.md)
+  <A HREF="./Design-and-Development-Procedure.html">Design and Development Procedure</A>
   <br><br>
-  [Document Control Policy and Procedure](Document-Control-Policy-and-Procedure.md)
+  <A HREF="./Document-Control-Policy-and-Procedure.html">Document Control Policy and Procedure</A>
   <br><br>
-  [Integrated Management System Policy](Integrated-Management-System-Policy.md)
+  <A HREF="./Integrated-Management-System-Policy.html">Integrated Management System Policy</A>
   <br><br>
-  [Supplier Selection Process](Supplier-Selection-Process.md)
+  <A HREF="./Supplier-Selection-Process.html">Supplier Selection Process</A>
   <br><br>
 
   <img src="/images/backgroundLogo.jpeg" alt="RoweIT"  style="width:100%"/>

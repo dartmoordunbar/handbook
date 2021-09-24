@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 {% include header.html %}
 
 # **Information Security Communications Plan** 

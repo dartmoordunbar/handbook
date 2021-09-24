@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 {% include header.html %}
 
 # Modern Slavery Statement

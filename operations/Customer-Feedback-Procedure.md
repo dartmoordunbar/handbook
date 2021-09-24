@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 {% include header.html %}
 
 # Customer Feedback Procedure

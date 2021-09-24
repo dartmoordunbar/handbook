@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 {% include header.html %}
 
 # Privacy Notice for Employees

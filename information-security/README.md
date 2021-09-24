@@ -1,28 +1,32 @@
+---
+layout: post
+---
 {% include header.html %}
 
+
 <div align="center">
-  <br><font size="5" style="color: #9bb6b5">Information Security</font>
+  <font size="6" style="color: #9bb6b5">Information Security</font>
   <br><br><br>
-  
-  [Acceptable Use Policy](Acceptable-Use-Policy.md)
+
+  <A HREF="./Acceptable-Use-Policy.html">Acceptable Use Policy</A>
   <br><br>
-  [Access Control Policy](Access-Control-Policy.md)
+  <A HREF="./Access-Control-Policy.html">Access Control Policy</A>
   <br><br>
-  [Incident Management Policy and Procedure](Incident-Management-Policy-and-Procedure.md)
+  <A HREF="./Incident-Management-Policy-and-Procedure.html">Incident Management Policy and Procedure</A>
   <br><br>
-  [Information Security Communications Plan](Information-Security-Communications-Plan.md)
+  <A HREF="./Information-Security-Communications-Plan.html">Information Security Communications Plan</A>
   <br><br>
-  [Password Policy](Password-Policy.md)
+  <A HREF="./Password-Policy.html">Password Policy</A>
   <br><br>
-  [Portable and Removable Media Device](Portable-and-Removable-Media-Devices.md)
+  <A HREF="./Portable-and-Removable-Media-Devices.html">Portable and Removable Media Device</A>
   <br><br>
-  [Privacy Notice for Employees](Privacy-Notice-for-Employees.md)
+  <A HREF="./Privacy-Notice-for-Employees.html">Privacy Notice for Employees</A>
   <br><br>
-  [Retention of Records Policy](Retention-of-Records-Policy.md)
+  <A HREF="./Retention-of-Records-Policy.html">Retention of Records Policy</A>
   <br><br>
-  [Social Media Policy](Social-Media-Policy.md)
+  <A HREF="./Social-Media-Policy.html">Social Media Policy</A>
   <br><br>
-  [Teleworking Policy](Teleworking-Policy.md)
+  <A HREF="./Teleworking-Policy.html">Teleworking Policy</A>
   <br><br>
 
   <img src="/images/backgroundLogo.jpeg" alt="RoweIT"  style="width:100%"/>
