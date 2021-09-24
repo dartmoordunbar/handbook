@@ -117,11 +117,10 @@ We carry out processing activities using special category data:
 
 Most commonly, we will process special categories of data when the following applies:
 
-1. you have given explicit consent to the processing 
-
+1. you have given explicit consent to the processing
 2. we must process the data in order to carry out our legal obligations 
 3. we must process data for reasons of substantial public interest 
-4. you have already made the data public. 
+4. you have already made the data public
 
 ## Failure to provide data
 
