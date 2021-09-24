@@ -280,7 +280,7 @@ We have a smart/casual dress code. However business attire should be worn when m
 
 Both from the point of view of safety and of appearance, work areas must be kept clean and tidy at all times. We try to provide a variety of coffee and tea but if you have any specific requirements, please let the General Manager know. 
 
-![customer focus line drawing](C:\Users\Deanna\Documents\Rowe IT Handbook\docs\policies-and-procedures\people\unknown\images/customer-focus-line-drawingjpg.jpg)
+![customer focus line drawing](images/customer-focus-line-drawingjpg.jpg)
 
 ## Health, Safety, Welfare and Hygiene 
 
