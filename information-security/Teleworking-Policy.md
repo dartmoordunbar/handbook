@@ -2,8 +2,6 @@
 layout: post
 ---
 
-{% include header.html %}
-
 # Teleworking Policy
 
 ## Introduction

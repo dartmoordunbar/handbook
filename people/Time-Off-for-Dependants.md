@@ -2,8 +2,6 @@
 layout: post
 ---
 
-{% include header.html %}
-
 # Time off for Dependants 
 
 ## Purpose 

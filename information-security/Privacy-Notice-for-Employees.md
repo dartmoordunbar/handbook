@@ -2,11 +2,7 @@
 layout: post
 ---
 
-{% include header.html %}
-
 # Privacy Notice for Employees
-
-**Signed and Agreed to:** 
 
 ## Introduction
 

@@ -2,8 +2,6 @@
 layout: post
 ---
 
-{% include header.html %}
-
 # Parental Leave Policy 
 
 ## Scope 

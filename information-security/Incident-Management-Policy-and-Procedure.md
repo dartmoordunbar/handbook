@@ -2,8 +2,6 @@
 layout: post
 ---
 
-{% include header.html %}
-
 # Incident Management Policy and Procedure 
 
 ## Overview

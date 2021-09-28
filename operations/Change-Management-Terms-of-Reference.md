@@ -2,8 +2,6 @@
 layout: post
 ---
 
-{% include header.html %}
-
 # Change Management Terms of Reference (TORs)
 
 ## Scope

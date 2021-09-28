@@ -2,8 +2,6 @@
 layout: post
 ---
 
-{% include header.html %}
-
 # Retention of Records Policy
 
 ## Purpose

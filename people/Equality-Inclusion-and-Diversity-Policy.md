@@ -2,8 +2,6 @@
 layout: post
 ---
 
-{% include header.html %}
-
 # Equality, Inclusion and Diversity Policy 
 
 ## Introduction

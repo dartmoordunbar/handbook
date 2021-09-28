@@ -2,8 +2,6 @@
 layout: post
 ---
 
-{% include header.html %}
-
 # New and Expectant Mothers
 
 ## Introduction

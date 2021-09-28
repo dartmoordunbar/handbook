@@ -1,19 +1,12 @@
 ---
 layout: post
 ---
-{% include header.html %}
 
-
-
-<link rel="stylesheet" href="/style.css">
-<div align="center">
-  <br><h1>Rowe IT Company Handbook</h1><br>
-</div>
+# Rowe IT Company Handbook
 
 **16th September 2020**
 
-
-<img src="/images/rowe-it-wall.png" alt="rowe it wall" width="700" height="450" align="center"/>
+![Rowe IT wall](images/rowe-it-wall.png)
 
 ## Introduction 
 
