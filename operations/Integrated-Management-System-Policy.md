@@ -1,4 +1,6 @@
-{% include header.html %}
+---
+layout: post
+---
 
 # Integrated Management System Policy
 

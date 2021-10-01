@@ -1,28 +1,12 @@
-{% include header.html %}
+---
+layout: post
+---
 
-<!--
-<div align="center">
-  <br><font size="5" style="color: #9bb6b5">Rowe IT Company Handbook</font><br>
-</div>
--->
-
-<link rel="stylesheet" href="/styles.css">
-<div align="center">
-  <br><h1>Rowe IT Company Handbook</h1><br>
-</div>
+# Rowe IT Company Handbook
 
 **16th September 2020**
 
-![rowe it wall](images/rowe-it-wall.png)
-
-## Policies and Procedures:
-
-- [Health and Safety](health-and-safety/README.md)
-- [Information Security](information-security/README.md)
-- [Operations](operations/README.md)
-- [Quality](quality/README.md)
-- [People](people/README.md)
-
+![Rowe IT wall](images/rowe-it-wall.png)
 
 ## Introduction 
 
@@ -101,7 +85,8 @@ Our values are:
 6. Love what you do. 
 7. Keep learning. Tomorrows skills are not todays. 
 
-![company line drawing](images/company-line-drawing.png)
+
+<img src="./images/company-line-drawing.png" alt="company line drawing" width="700" height="450" align="center"/>
 
 ## Pay 
 
@@ -279,7 +264,7 @@ We have a smart/casual dress code. However business attire should be worn when m
 
 Both from the point of view of safety and of appearance, work areas must be kept clean and tidy at all times. We try to provide a variety of coffee and tea but if you have any specific requirements, please let the General Manager know. 
 
-![customer focus line drawing](C:\Users\Deanna\Documents\Rowe IT Handbook\docs\policies-and-procedures\people\unknown\images/customer-focus-line-drawingjpg.jpg)
+![customer focus line drawing](images/customer-focus-line-drawingjpg.jpg)
 
 ## Health, Safety, Welfare and Hygiene 
 

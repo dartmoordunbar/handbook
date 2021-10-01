@@ -1,4 +1,6 @@
-{% include header.html %}
+---
+layout: post
+---
 
 # Roles and Responsibilities Procedure 
 

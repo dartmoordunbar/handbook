@@ -1,4 +1,6 @@
-{% include header.html %}
+---
+layout: post
+---
 
 # Design and Development Procedure
 
@@ -140,7 +142,7 @@ Programme and Project concerns are recorded within the Project Information Docum
 
 ------
 
-[1](#_ftnref1) This is still relevant even if the main project documentation is held on client’s systems. 
+This is still relevant even if the main project documentation is held on client’s systems. 
 
 ### Project Phases 
 

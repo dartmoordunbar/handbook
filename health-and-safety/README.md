@@ -1,16 +1,16 @@
-{% include header.html %}
+---
+layout: menu
+---
 
-<div align="center">
-  <br><font size="5" style="color: #9bb6b5">Health and Safety</font>
-  <br><br><br>
-  
-  [DSE Procedure](DSE-Procedure.md)
-  <br><br>
-  [Health and Safety Policy](Health-and-Safety-Policy.md)
-  <br><br>
-  [New and Expectant Mothers](New-and-Expectant-Mothers.md)
-  <br><br>
+<h1>Health and Safety</h1>
+<br>
 
-  <img src="/images/backgroundLogo.jpeg" alt="RoweIT"  style="width:100%"/>
+<A HREF="./DSE-Procedure.html">DSE Procedure</A>
+<br><br>
+<A HREF="./Health-and-Safety-Policy.html">Health and Safety Policy</A>
+<br><br>
+<A HREF="./New-and-Expectant-Mothers.html">New and Expectant Mothers</A>
+<br><br>
 
-</div>
+<img src="/images/backgroundLogo.jpeg" alt="RoweIT"  style="width:100%"/>
+

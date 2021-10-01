@@ -1,4 +1,6 @@
-{% include header.html %}
+---
+layout: post
+---
 
 # Nonconformity and Corrective Action Procedure 
 

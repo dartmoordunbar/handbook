@@ -1,4 +1,6 @@
-{% include header.html %}
+---
+layout: post
+---
 
 # Holiday, Sickness and Compassionate Leave Policy 
 

@@ -1,14 +1,14 @@
-{% include header.html %}
+---
+layout: menu
+---
 
-<div align="center">
-  <br><font size="5" style="color: #9bb6b5">Quality</font>
-  <br><br><br>
-  
-  [Customer Feedback Procedure](Customer-Feedback-Procedure.md)
-  <br><br>
-  [Nonconformity and Corrective Action Procedure](Nonconformity-and-Corrective-Action-Procedure.md)
-  <br><br>
+<h1>Quality</h1>
+<br>
 
-  <img src="/images/backgroundLogo.jpeg" alt="RoweIT"  style="width:100%"/>
+<A HREF="./Customer-Feedback-Procedure.html">Customer Feedback Procedure</A>
+<br><br>
+<A HREF="./Nonconformity-and-Corrective-Action-Procedure.html">Nonconformity and Corrective Action Procedure</A>
+<br><br>
 
-</div>
+<img src="/images/backgroundLogo.jpeg" alt="RoweIT"  style="width:100%"/>
+

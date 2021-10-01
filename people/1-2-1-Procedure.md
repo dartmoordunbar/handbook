@@ -1,4 +1,6 @@
-{% include header.html %}
+---
+layout: post
+---
 
 # 1-2-1 Procedure
 

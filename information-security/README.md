@@ -1,30 +1,29 @@
-{% include header.html %}
+---
+layout: menu
+---
 
-<div align="center">
-  <br><font size="5" style="color: #9bb6b5">Information Security</font>
-  <br><br><br>
-  
-  [Acceptable Use Policy](Acceptable-Use-Policy.md)
-  <br><br>
-  [Access Control Policy](Access-Control-Policy.md)
-  <br><br>
-  [Incident Management Policy and Procedure](Incident-Management-Policy-and-Procedure.md)
-  <br><br>
-  [Information Security Communications Plan](Information-Security-Communications-Plan.md)
-  <br><br>
-  [Password Policy](Password-Policy.md)
-  <br><br>
-  [Portable and Removable Media Device](Portable-and-Removable-Media-Devices.md)
-  <br><br>
-  [Privacy Notice for Employees](Privacy-Notice-for-Employees.md)
-  <br><br>
-  [Retention of Records Policy](Retention-of-Records-Policy.md)
-  <br><br>
-  [Social Media Policy](Social-Media-Policy.md)
-  <br><br>
-  [Teleworking Policy](Teleworking-Policy.md)
-  <br><br>
+<h1>Information Security</h1><br>
 
-  <img src="/images/backgroundLogo.jpeg" alt="RoweIT"  style="width:100%"/>
+<A HREF="./Acceptable-Use-Policy.html">Acceptable Use Policy</A>
+<br><br>
+<A HREF="./Access-Control-Policy.html">Access Control Policy</A>
+<br><br>
+<A HREF="./Incident-Management-Policy-and-Procedure.html">Incident Management Policy and Procedure</A>
+<br><br>
+<A HREF="./Information-Security-Communications-Plan.html">Information Security Communications Plan</A>
+<br><br>
+<A HREF="./Password-Policy.html">Password Policy</A>
+<br><br>
+<A HREF="./Portable-and-Removable-Media-Devices.html">Portable and Removable Media Device</A>
+<br><br>
+<A HREF="./Privacy-Notice-for-Employees.html">Privacy Notice for Employees</A>
+<br><br>
+<A HREF="./Retention-of-Records-Policy.html">Retention of Records Policy</A>
+<br><br>
+<A HREF="./Social-Media-Policy.html">Social Media Policy</A>
+<br><br>
+<A HREF="./Teleworking-Policy.html">Teleworking Policy</A>
+<br><br>
 
-</div>
+<img src="/images/backgroundLogo.jpeg" alt="RoweIT"  style="width:100%"/>
+

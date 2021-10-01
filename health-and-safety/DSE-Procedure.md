@@ -1,5 +1,6 @@
-{% include header.html %}
-
+---
+layout: post
+---
 # Display Screen Equipment Procedure
 
 ## Introduction

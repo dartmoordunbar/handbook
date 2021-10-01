@@ -1,4 +1,6 @@
-{% include header.html %}
+---
+layout: post
+---
 
 # Document Control Policy and Procedure
 

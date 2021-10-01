@@ -1,4 +1,6 @@
-{% include header.html %}
+---
+layout: post
+---
 
 # Portable and Removable Media Devices Policy
 

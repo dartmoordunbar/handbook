@@ -1,4 +1,6 @@
-{% include header.html %}
+---
+layout: post
+---
 
 # Equality, Inclusion and Diversity Policy 
 

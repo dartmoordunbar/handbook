@@ -1,4 +1,6 @@
-{% include header.html %}
+---
+layout: post
+---
 
 # Customer Project Policy and Procedure
 

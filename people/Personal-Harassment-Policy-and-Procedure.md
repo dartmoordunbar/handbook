@@ -1,4 +1,6 @@
-{% include header.html %}
+---
+layout: post
+---
 
 # Personal Harassment Policy and Procedure 
 
