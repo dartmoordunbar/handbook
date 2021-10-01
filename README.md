@@ -14,4 +14,5 @@ The handbook can be run locally by:
 `docker run --rm --label=jekyll --volume=" FILE PATH ":/srv/jekyll  -it -p 4000:4000 jekyll/jekyll jekyll serve`
 
 5.Using a browser, enter `localhost:4000` to see the website.
+6.If any changes are made, the server will have to be re-started.
 
