@@ -1,14 +1,11 @@
 ---
 layout: menu
+permalink: /quality/
 ---
 
 <h1>Quality</h1>
-<br>
-
-<A HREF="./Customer-Feedback-Procedure.html">Customer Feedback Procedure</A>
-<br><br>
-<A HREF="./Nonconformity-and-Corrective-Action-Procedure.html">Nonconformity and Corrective Action Procedure</A>
-<br><br>
+<h2><a href="./Customer-Feedback-Procedure.html">Customer Feedback Procedure</a></h2>
+<h2><a href="./Nonconformity-and-Corrective-Action-Procedure.html">Nonconformity and Corrective Action Procedure</a></h2>
 
 <img src="/images/backgroundLogo.jpeg" alt="RoweIT"  style="width:100%"/>
 
