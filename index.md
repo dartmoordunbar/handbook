@@ -69,7 +69,7 @@ However, we understand that sometimes this may not be possible and will try to w
 
 It may sometimes be necessary to transfer you to alternative departments, teams or duties within our business. During holiday periods, etc. it may be necessary for you to take over some duties normally performed by colleagues. This flexibility is essential for operational efficiency as the type and volume of work is always subject to change. 
 
-![agile line drawing](images/agile-line-drawing.jpg)
+![agile line drawing](images/agile-line-drawing.png)
 
 ## Values
 
@@ -85,8 +85,7 @@ Our values are:
 6. Love what you do. 
 7. Keep learning. Tomorrows skills are not todays. 
 
-
-<img src="./images/company-line-drawing.png" alt="company line drawing" width="700" height="450" align="center"/>
+![company line drawing](/images/company-line-drawing.png)
 
 ## Pay 
 
@@ -264,7 +263,7 @@ We have a smart/casual dress code. However business attire should be worn when m
 
 Both from the point of view of safety and of appearance, work areas must be kept clean and tidy at all times. We try to provide a variety of coffee and tea but if you have any specific requirements, please let the General Manager know. 
 
-![customer focus line drawing](images/customer-focus-line-drawingjpg.jpg)
+![customer focus line drawing](images/customer-focus-line-drawing.png)
 
 ## Health, Safety, Welfare and Hygiene 
 
