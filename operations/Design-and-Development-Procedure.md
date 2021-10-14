@@ -14,7 +14,7 @@ The primary goal of this process is to ensure that incoming work packages are un
 
 The nature of the company’s business means that the approach to the development of software will, to some extent, be determined by the client for whom the software is being developed. The purpose of this document is the describe the guiding principles that will be applied to software development activities within in the company. 
 
-![design and development procedure](images/design-and-development-procedure.jpg)
+![design and development procedure](images/design-and-development-procedure.png)
 
 > **Note** 
 >
@@ -292,7 +292,7 @@ The process will typically involve the following steps:
 3. The developer is responsible for updating the PTS with progress and for generating new issue records should any be identified during development and testing. 
 4. When software components build without errors and are successfully tested by the developer, the software components can be added or updated in the SCM. The developer is required to update the requirement in the PTS to indicate that it is built and ready for testing. 
 
-![outline development process](images/outline-development-process.jpg)
+![outline development process](images/outline-development-process.png)
 
 ## Checklists
 

@@ -12,7 +12,7 @@ The Rowe IT Customer Feedback Procedure forms a core component of our overall In
 
 The goal of this procedure is to ensure we are responsive to the needs of our customers and perform in line with (and where possible exceed) their expectations. 
 
-![customer feedback procedure](images/customer-feedback-procedure.jpg)
+![customer feedback procedure](images/customer-feedback-procedure.png)
 
 ## Severities of Feedback 
 
