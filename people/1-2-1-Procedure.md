@@ -30,21 +30,21 @@ Breathe Performance is the place to record and set 1-2-1s and Objectives. To acc
 
 - Select your preferred date and time from the calendar and then choose the type of meeting
 
-  ![set up breathe 1-2-1](images/set-up-breathe-1-2-1.jpg)
+  ![set up breathe 1-2-1](images/set-up-breathe-1-2-1.png)
 
 - It could be good to set up a recurring monthly meeting at this stage, but you can change the dates or cancel if not needed 
 
 - You and the employee can add notes relating to each specific 1-2-1 and mark as complete when happy
 
-  ![breathe 1-2-1 feedback](images/breathe-1-2-1-feedback.jpg)
+  ![breathe 1-2-1 feedback](images/breathe-1-2-1-feedback.png)
 
 - Consider setting objectives to discuss at next 1-2-1. They can be linked to a 1-2-1. They also show due date, score, % of completion and state. 
 
-  ![breathe performance page](images/breathe-performance-page.jpg)
+  ![breathe performance page](images/breathe-performance-page.png)
 
 - If you want to add comments to an objective, click into the record and scroll down to add a new comment. 
 
-  ![breathe objective](images/breathe-objective.jpg)
+  ![breathe objective](images/breathe-objective.png)
 
 - Employees can suggest an objective from their dashboard which is either confirmed or rejected – although if rejected perhaps if would be better to discuss it at the 1-2-1 before doing so! 
 - If you wish to add a new objective, you can do this from the performance hub within their profile 
