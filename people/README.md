@@ -8,6 +8,7 @@ permalink: /people/
 <h2><a href="./Anti-Bribery-Policy.html">Anti-Bribery Policy</a></h2>
 <h2><a href="./Anti-Tax-Evasion-Policy.html">Anti-Tax Evasion Policy</a></h2>
 <h2><a href="./Breathe-HR.html">Breathe HR</a></h2>
+<h2><a href="./Competence-Awareness-and-Training-Procedure.html">Competence Awareness and Training Procedure</a></h2>
 <h2><a href="./Discipline-Procedure.html">Discipline Procedure</a></h2>
 <h2><a href="./Employee-Referral-Scheme.html">Employee Referral Scheme</a></h2>
 <h2><a href="./Equality-Inclusion-and-Diversity-Policy.html">Equality Inclusion and Diversity Policy</a></h2>
@@ -22,5 +23,6 @@ permalink: /people/
 <h2><a href="./Time-Off-for-Dependants.html">Time Off for Dependants</a></h2>
 <h2><a href="./Travel-Expenses-Policy.html">Travel Expenses Policy</a></h2>
 <h2><a href="./Whistleblowers.html">Whistle-blowers</a></h2>
+
 
 <img src="/images/backgroundLogo.jpeg" alt="RoweIT"  style="width:100%"/>
