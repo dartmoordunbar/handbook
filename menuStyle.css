@@ -18,23 +18,11 @@ a:hover {
   color: #1c588c;
 }
 
-/* Headings */
-h1 {
+h2 a {
   color: #9bb6b5;
-}
-
-/* Links */
-a[href$=".html"]:link, a[href$=".html"]:visited {
-  background-color: #1c588c;
-  color: white;
-  padding: 14px 25px;
-  text-align: center;
   text-decoration: none;
-  display: inline-block;
-  font-size: 17px;
 }
 
-a[href$=".html"]:hover {
-  background-color: #ddd;
-  color: #1c588c;
+h2 a:hover {
+  background-color: transparent;
 }
