@@ -12,6 +12,8 @@ permalink: /operations/
 <h2><a href="./Document-Control-Policy-and-Procedure.html">Document Control Policy and Procedure</a></h2>
 <h2><a href="./Integrated-Management-System-Policy.html">Integrated Management System Policy</a></h2>
 <h2><a href="./Internal-Audit-Policy.html">Internal Audit Policy</a></h2>
+<h2><a href="./Service-Management-Procedure.html">Service Management Procedure</a></h2>
+
 <h2><a href="./Supplier-Selection-Process.html">Supplier Selection Process</a></h2>
 
 
