@@ -81,12 +81,15 @@ th {
   color: white;
 }
 
-/* unvisited link */
+/* Menu links */
 .menu a:link {
   color: #9bb6b5;
 }
 
-/* visited link */
 .menu a:hover {
   color: #1c588c;
+}
+
+a:visited {
+  text-decoration: none;
 }
