@@ -1,6 +1,6 @@
 # Employee Handbook: #
 
-This handbook contains a number of the company policies and procedures all in one place. By using GitHub they can be updated easily and are always the latest version. All these documents can be viewed as a website through a browser.
+This handbook contains a number of the company policies and procedures all in one place. By using GitHub they can be updated easily and are always the latest version. All these documents can be viewed as a website through a browser at this web address: https://roweit.github.io/handbook/
 
 
 ## Development Environment:  ##
