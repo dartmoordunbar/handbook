@@ -63,7 +63,7 @@ blockquote {
   padding: 1px 10px;
 }
  
-/* Table */
+/* Tables */
 table {
   border-collapse: collapse;
   width: 100%;
@@ -79,25 +79,4 @@ tr:nth-child(even){background-color: #f2f2f2}
 th {
   background-color: #1c588c;
   color: white;
-}
-
-/* Menu links */
-.menu a:link {
-  color: #9bb6b5;
-  text-decoration: none;
-}
-
-.menu a:hover {
-  color: #1c588c;
-  text-decoration: none;
-}
-
-.menu a:visited {
-  text-decoration: none;
-  color: #9bb6b5;
-}
-
-.menu a:active {
-  color: #9bb6b5;
-  text-decoration: none;
 }
