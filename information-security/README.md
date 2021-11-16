@@ -4,17 +4,17 @@ permalink: /information-security/
 ---
 
 <h1>Information Security</h1>
-<h2><a href="./Acceptable-Use-Policy.html">Acceptable Use Policy</a></h2>
-<h2><a href="./Access-Control-Policy.html">Access Control Policy</a></h2>
-<h2><a href="./Asset-Handling-Procedure.html">Asset Handling Procedure</a></h2>
-<h2><a href="./Incident-Management-Policy-and-Procedure.html">Incident Management Policy and Procedure</a></h2>
-<h2><a href="./Information-Security-Communications-Plan.html">Information Security Communications Plan</a></h2>
-<h2><a href="./Password-Policy.html">Password Policy</a></h2>
-<h2><a href="./Portable-and-Removable-Media-Devices.html">Portable and Removable Media Device</a></h2>
-<h2><a href="./Privacy-Notice-for-Employees.html">Privacy Notice for Employees</a></h2>
-<h2><a href="./Retention-of-Records-Policy.html">Retention of Records Policy</a></h2>
-<h2><a href="./Social-Media-Policy.html">Social Media Policy</a></h2>
-<h2><a href="./Teleworking-Policy.html">Teleworking Policy</a></h2>
+<h2><a href="{{ "/information-security/Acceptable-Use-Policy.html" | relative_url }}">Acceptable Use Policy</a></h2>
+<h2><a href="{{ "/information-security/Access-Control-Policy.html" | relative_url }}">Access Control Policy</a></h2>
+<h2><a href="{{ "/information-security/Asset-Handling-Procedure.html" | relative_url }}">Asset Handling Procedure</a></h2>
+<h2><a href="{{ "/information-security/Incident-Management-Policy-and-Procedure.html" | relative_url }}">Incident Management Policy and Procedure</a></h2>
+<h2><a href="{{ "/information-security/Information-Security-Communications-Plan.html" | relative_url }}">Information Security Communications Plan</a></h2>
+<h2><a href="{{ "/information-security/Password-Policy.html" | relative_url }}">Password Policy</a></h2>
+<h2><a href="{{ "/information-security/Portable-and-Removable-Media-Devices.html" | relative_url }}">Portable and Removable Media Device</a></h2>
+<h2><a href="{{ "/information-security/Privacy-Notice-for-Employees.html" | relative_url }}">Privacy Notice for Employees</a></h2>
+<h2><a href="{{ "/information-security/Retention-of-Records-Policy.html" | relative_url }}">Retention of Records Policy</a></h2>
+<h2><a href="{{ "/information-security/Social-Media-Policy.html" | relative_url }}">Social Media Policy</a></h2>
+<h2><a href="{{ "/information-security/Teleworking-Policy.html" | relative_url }}">Teleworking Policy</a></h2>
 
 <img src="/images/backgroundLogo.jpeg" alt="RoweIT"  style="width:100%"/>
 
