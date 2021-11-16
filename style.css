@@ -82,11 +82,11 @@ th {
 }
 
 /* unvisited link */
-a:link {
+.menu a:link {
   color: red;
 }
 
 /* visited link */
-a:visited {
+.menu a:visited {
   color: green;
 }
