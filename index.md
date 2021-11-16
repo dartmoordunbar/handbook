@@ -4,8 +4,6 @@ layout: post
 
 # Rowe IT Company Handbook
 
-**16th September 2020**
-
 ![Rowe IT wall](images/rowe-it-wall.png)
 
 ## Introduction 
@@ -465,6 +463,4 @@ This is an important policy which is there to ensure your safety and to make sur
 
 This outlines our commitment to meeting our quality objectives and standards as well as to continually improve. 
 
-## WECLOME TO ROWE IT
-
-![company](images/company.jpg)
+## WELCOME TO ROWE IT
