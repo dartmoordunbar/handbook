@@ -16,5 +16,5 @@ permalink: /information-security/
 <h2><a href="{{ "/information-security/Social-Media-Policy.html" | relative_url }}">Social Media Policy</a></h2>
 <h2><a href="{{ "/information-security/Teleworking-Policy.html" | relative_url }}">Teleworking Policy</a></h2>
 
-<img src="{{ "/information-security/images/backgroundLogo.jpeg" | relative_url }}" alt="RoweIT"  style="width:100%"/>
+<img src="{{ "/images/backgroundLogo.jpeg" | relative_url }}" alt="RoweIT"  style="width:100%"/>
 
