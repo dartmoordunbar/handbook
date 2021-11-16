@@ -83,10 +83,10 @@ th {
 
 /* unvisited link */
 .menu a:link {
-  color: red;
+  color: #9bb6b5;
 }
 
 /* visited link */
-.menu a:visited {
-  color: green;
+.menu a:hover {
+  color: #1c588c;
 }
