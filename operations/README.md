@@ -13,7 +13,6 @@ permalink: /operations/
 <h2><a href="{{ "/Integrated-Management-System-Policy.html" | relative_url }}">Integrated Management System Policy</a></h2>
 <h2><a href="{{ "/Internal-Audit-Policy.html" | relative_url }}">Internal Audit Policy</a></h2>
 <h2><a href="{{ "/Service-Management-Procedure.html" | relative_url }}">Service Management Procedure</a></h2>
-
 <h2><a href="{{ "/Supplier-Selection-Process.html" | relative_url }}">Supplier Selection Process</a></h2>
 
 
