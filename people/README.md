@@ -25,4 +25,4 @@ permalink: /people/
 <h2><a href="./Whistleblowers.html">Whistle-blowers</a></h2>
 
 
-<img src="/images/backgroundLogo.jpeg" alt="RoweIT"  style="width:100%"/>
+<img src="{{ "/images/backgroundLogo.jpeg" | relative_url }}" alt="RoweIT"  style="width:100%"/>
