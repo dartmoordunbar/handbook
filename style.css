@@ -89,8 +89,15 @@ th {
 
 .menu a:hover {
   color: #1c588c;
+  text-decoration: none;
 }
 
 .menu a:visited {
+  text-decoration: none;
+  color: #9bb6b5;
+}
+
+.menu a:active {
+  color: #9bb6b5;
   text-decoration: none;
 }
