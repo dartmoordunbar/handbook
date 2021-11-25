@@ -6,7 +6,7 @@ permalink: /people/
 <h1>People</h1>
 <h2><a href="{{ "/people/1-2-1-Procedure.html" | relative_url }}">1-2-1 Procedure</a></h2>
 <h2><a href="{{ "/people/Anti-Bribery-Policy.html" | relative_url }}">Anti-Bribery Policy</a></h2>
-<h2><a href="{{ "/people/Anti-Tax-Evasion-Policy.html" | relative_url }}{{ "/1-2-1-Procedure.html" | relative_url }}">Anti-Tax Evasion Policy</a></h2>
+<h2><a href="{{ "/people/Anti-Tax-Evasion-Policy.html" | relative_url }}">Anti-Tax Evasion Policy</a></h2>
 <h2><a href="{{ "/people/Breathe-HR.html" | relative_url }}">Breathe HR</a></h2>
 <h2><a href="{{ "/people/Competence-Awareness-and-Training-Procedure.html" | relative_url }}">Competence Awareness and Training Procedure</a></h2>
 <h2><a href="{{ "/people/Discipline-Procedure.html" | relative_url }}">Discipline Procedure</a></h2>
